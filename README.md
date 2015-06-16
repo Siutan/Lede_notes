@@ -1,2 +1,6 @@
 # Lede_notes
-Class note for using Python to do data analysis
+Notes for the "FOUNDATIONS OF COMPUTING" class
+Instructer: Jonathan Soma
+Columbia Journalism School
+Summer 2015
+
